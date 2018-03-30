@@ -1,0 +1,19 @@
+{
+  "name": "machine-color",
+  "version": "1.0.0",
+  "description": "A colorpicker using Brain.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eventyret/color-brain.git"
+  },
+  "author": "Simen Daehlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eventyret/color-brain/issues"
+  },
+  "homepage": "https://github.com/Eventyret/color-brain#readme"
+}
