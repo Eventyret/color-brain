@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Eventyret/color-brain/issues"
   },
-  "homepage": "https://github.com/Eventyret/color-brain#readme"
+  "homepage": "https://github.com/Eventyret/color-brain#readme",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
 }
